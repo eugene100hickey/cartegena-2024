@@ -1,0 +1,10 @@
+---
+title: "R You Ready - for Interactive Learning"
+author: "Eugene"
+format: html
+editor: visual
+---
+
+## Abstract
+
+R presents several facilities to enhance the student learning experience.
